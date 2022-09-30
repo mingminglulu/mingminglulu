@@ -8,4 +8,4 @@
 mingminglulu/mingminglulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-$u(x_1,x_2)=ax_1+bln(x_1+x_2)$
+$u(x_1,x_2)=ax_1+b\ln(x_1+x_2)$
