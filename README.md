@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mingminglulu
 - 👀 I’m interested in math,economics and philosophy
-- 🌱 I’m currently learning mit economics and finance at mitx,edx
-- 💞️ I’m looking to collaborate on set a up a good firm for US future
-- 📫 How to reach me AT email
+- 🌱 I’m currently learning MIT economics and finance at MITx,edX
+- 💞️ I’m looking to collaborate on set a up a good business for US in the future
+- 📫 How to reach me minglu.mit@gmail.com
 
 <!---
 mingminglulu/mingminglulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
